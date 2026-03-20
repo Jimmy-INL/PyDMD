@@ -16,6 +16,7 @@ __all__ = [
     "havok",
     "bopdmd",
     "pidmd",
+    "pidmdc",
     "edmd",
     "varprodmd",
     "lando",
@@ -38,6 +39,7 @@ from .mrdmd import MrDMD
 from .optdmd import OptDMD
 from .paramdmd import ParametricDMD
 from .pidmd import PiDMD
+from .pidmdc import PiDMDc
 from .preprocessing import PrePostProcessingDMD
 from .rdmd import RDMD
 from .spdmd import SpDMD

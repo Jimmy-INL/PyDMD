@@ -43,6 +43,7 @@ An additional PDF tutorial ([DSWeb contest winner](https://dsweb.siam.org/The-Ma
 | Tutorial19&#160;[[.ipynb](tutorial19/tutorial-19-havok.ipynb),&#160;[.py](tutorial19/tutorial-19-havok.py),&#160;[.html](http://pydmd.github.io/PyDMD/tutorial19-havok.html)]     | HAVOK for modeling chaos with partial measurements | `pydmd.HAVOK`        |
 | Tutorial20a&#160;[[.ipynb](tutorial20/costs-tutorial_toy-data.ipynb)]                                                                                                               | COSTS for decomposing toy data                                  | `pydmd.COSTS`             |
 | Tutorial20b&#160;[[.ipynb](tutorial20/costs-tutorial_real-data.ipynb)]                                                                                                                  | mrCOSTS for decomposing multi-scale physics of real, noisy data | `pydmd.mrCOSTS`             |
+| Tutorial21&#160;[[.ipynb](tutorial21/tutorial-21-pidmdc.ipynb),&#160;[.py](tutorial21/tutorial-21-pidmdc.py)]     | Physics-informed DMD with Control | `pydmd.PiDMDc`        |
 
 
 
